@@ -1,11 +1,10 @@
 {
-
     "Header.Item1" : "About me",
     "Header.Item2" : "Experience",
     "Header.Item3" : "Projects",
     "Header.Item4" : "Contact",
     "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+    "Header.cvName": "CV_sourov_das.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have great skills in both mobile app and backend development with <span class='underline'>Flutter, Native Android, Native iOS and NestJS</span>.. My diverse skill set enables me to solve difficulties across multiple platforms, resulting in a consistent user experience and strong technology solutions.",
@@ -18,11 +17,6 @@
         "Highly organized and efficient individual, whose thorough and precise approach to projects has yielded excellent results.",
         "Some of the technologies that I have worked on include (but are not limited to):"
     ],
-
-
- 
-
-    
 
     "Experience.Title": "Experience",
     "Experience.Jobs": [
@@ -56,116 +50,107 @@
     "FeatureProjects.Title": "My projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Title": "HishabPati",
+            "Description": "<span class='underline'>Record, manage & track your business</span> activities digitally with mobile, whether you are online or offline. This app is suitable for small to mid-range traders making your transactions transparent throughout the process and make your business transactions smooth, fast and secure.",
             "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
+                "assets/images/hishabpati/hishabpati1.webp"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.mindorbital.android.hishabpati",
+            "Technologies": ["Flutter", "Dart", "Java", "Swift"]
         },
         {
-            "Title": "Tu super plan",
-            "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "Title": "Lango School",
+            "Description": "<span class='underline'>Learn to Speak in a FUN WAY!</span> LANGO is a language speaking practice app that helps you with pronunciation and daily conversational phrases to speak English with confidence.",
             "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
+                "assets/images/lango/lango1.webp"
+        
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.lango.schoolapp",
+            "iosAppLink": "https://apps.apple.com/us/app/lango-school/id1597890437",
+            "Technologies": ["Flutter", "Dart", "Java", "Swift", "NestJS", "AWS"]
         },
         {
-            "Title": "Proyexiot",
-            "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "Title": "Table Ache",
+            "Description": "All-in-One <span class='underline'>Restaurant Management</span> Solution. With comprehensive reservation system, you can streamline operations, enhance guest satisfaction, and take your restaurant to new heights of success. ",
             "imgs": [
-                "assets/images/proyex/proyex1.png",
-                "assets/images/proyex/proyex2.png",
-                "assets/images/proyex/proyex3.png",
-                "assets/images/proyex/proyex4.png",
-                "assets/images/proyex/proyex5.png",
-                "assets/images/proyex/proyex6.png",
-                "assets/images/proyex/proyex7.png",
-                "assets/images/proyex/proyex8.png",
-                "assets/images/proyex/proyex9.png",
-                "assets/images/proyex/proyex10.png",
-                "assets/images/proyex/proyex11.png",
-                "assets/images/proyex/proyex12.png"
+                "assets/images/table_ache/table_ache1.webp",
+                "assets/images/table_ache/table_ache2.webp",
+                "assets/images/table_ache/table_ache3.webp",
+                "assets/images/table_ache/table_ache4.webp"
+          
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.mindorbital.android.tableache",
+            "iosAppLink": "https://apps.apple.com/us/app/table-ache/id6475287993",
+            "webAppLink":"https://app.tableache.com/",
+            "Technologies": ["Flutter", "Dart"]
         },
         {
-            "Title": "Hands game",
-            "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-            "imgs": ["assets/images/hands-game.png"],
-            "ghLink": "https://github.com/dsourav/hands-game",
-            "demoLink": "https://projects.dsourav.com/hands-game",
-            "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+            "Title": "Oui.Meet",
+            "Description": "<span class='underline'>Oui Meet is for the dater who's ready to stop swiping and start dating</span>. It  is designed to be used while you’re out and ready to mingle. Just check into your location through the app and search the profiles of users near you.",
+            "imgs": [
+                "assets/images/oui_meet/oui_meet1.webp",
+                "assets/images/oui_meet/oui_meet2.webp"
+            ],
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.devbrid.oui_dating",
+            "iosAppLink": "https://apps.apple.com/us/app/oui-meet/id1562110466",
+            "Technologies": ["Flutter", "Firebase", "Firestore", "Cloud Functions"]
         },
         {
-            "Title": "Countries viewer",
-            "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-            "imgs": ["assets/images/countries-viewer.png"],
-            "ghLink": "https://github.com/dsourav/countries-viewer",
-            "demoLink": "https://projects.dsourav.com/countries-viewer",
-            "Technologies": ["Angular", "RxJS", "SASS", "API"]
+            "Title": "Hazira",
+            "Description": "As businesses grow, it becomes increasingly difficult to keep track of employees attendance, work schedules, shift planning, branch management, and leave management. However, with the Hazira application, these tasks are no longer a hassle. Organizations can now easily manage all their HR tasks through the app.",
+            "imgs": [
+                "assets/images/hazira/hazira1.webp",
+                "assets/images/hazira/hazira2.webp"
+            ],
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.mindorbital.android.hazira",
+            "iosAppLink": "https://apps.apple.com/us/app/hazira/id6450311881",
+            "Technologies": ["Flutter", "Dart", "Java", "Swift"]
         }
     ],
-
-
-
     "OtherProjects.Title": "More projects",
     "OtherProjects.Projects": [{
-            "Title": "Pokemon",
-            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-            "ghLink": "https://github.com/dsourav/pokemon-angular",
-            "demoLink": "https://projects.dsourav.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+            "Title": "Lettuce Real Estate",
+            "Description": "Lettuce Real Estate App integrates real estate news, mortgage calculator, latest mortgage information and real-time mortgage referral service applications",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.threewealth.mortgageapp",
+            "iosAppLink": "https://apps.apple.com/us/app/%E7%94%9F%E8%8F%9C%E5%9C%B0%E7%94%A2/id1543874139",
+            "Technologies": ["Flutter", "Firestore", "Cloud Functions", "Swift", "Java"]
         },
         {
-            "Title": "Coming soon page",
-            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-            "ghLink": "https://github.com/dsourav/coming-soon-page",
-            "demoLink": "https://projects.dsourav.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+            "Title": "MindHealth",
+            "Description": "Listen to the FREE pocket podcast blogs, helping you understand your mind, make life changes and transform how you feel.",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.samzsolution.hypnosara_app",
+            "iosAppLink": "https://apps.apple.com/us/app/mindhealth-heal-your-mind/id1556727953",
+            "Technologies": ["Flutter", "Firebase", "Firestore", "Cloud Functions", "Cron Job"]
         },
         {
-            "Title": "Four card feature section",
-            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-            "ghLink": "https://github.com/dsourav/fourd-card-feature-section",
-            "demoLink": "https://projects.dsourav.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
+            "Title": "HKG",
+            "Description": "HKG is a peer-to-peer marketplace for menswear. You can be a merchant or buyer in this marketplace",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.hkg.merchantapp",
+            "Technologies": ["Flutter", "Dart", "NodeJS", "Express"]
         },
         {
-            "Title": "Social proof section",
+            "Title": "eComApi",
             "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-            "ghLink": "https://github.com/dsourav/social-proof-section",
-            "demoLink": "https://projects.dsourav.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
+            "ghLink": "https://github.com/dsourav/ecomApi",
+            "Technologies": ["NodeJS", "Express", "MongoDB"]
         },
         {
-            "Title": "FAQ accordion card",
-            "Description": "FAQ accordion with logic and animations made in Angular.",
-            "ghLink": "https://github.com/dsourav/faq-accordion",
-            "demoLink": "https://proyectos.dsourav.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+            "Title": "YEP Nation UCP",
+            "Description": "This app will provide information on the YEP Nation Universal Communications Platform (UCP).",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.YEPNATION.UCP",
+            "iosAppLink": "https://apps.apple.com/us/app/yepnation-ucp/id1541387565",
+            "Technologies": ["Java", "Dart", "Swift", "Firestore", "Flutter"]
         },
         {
-            "Title": "Profile card",
-            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-            "ghLink": "https://github.com/dsourav/profile-card-component",
-            "demoLink": "https://proyectos.dsourav.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
+            "Title": "Cu.Re Patient",
+            "Description": "Cu.Re is a Customized Rehabilitation platform, where physiotherapists can remotely connect with their patients to provide video consultations, set personalized exercise charts & monitor progress",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.ashvaweartech.patientmyphysio",
+            "Technologies": ["Flutter", "Dart", "Java","Swift"]
         }
     ],
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Content": " Please feel free to reach out to me with any inquiries or opportunities you have in mind. I'll be sure to respond promptly upon receiving your message. Thank you!",
     "Contact.Btn": "Say Hello"
-
 
 }

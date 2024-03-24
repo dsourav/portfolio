@@ -12,7 +12,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'dsourav-portfolio';
+  title = 'sourov-portfolio';
   
   constructor(
     private titleService: Title,
@@ -27,13 +27,12 @@ export class AppComponent implements OnInit{
     this.languageService.initLanguage()
 
 
-    this.titleService.setTitle( "José Andrés | Frontend Developer" );
+    this.titleService.setTitle( "Sourov Das | Software Developer" );
 
     this.metaService.addTags([
-      {name: 'keywords', content: 'Frontend, software, developer'},
-      {name: 'description', content: 'Con 4 años de experiencia desarrollando sistemas, interfaces, bots y soluciones tecnológicas  para hacer de la web un lugar mejor. En mi trabajo me gusta liderar, proponer y ejecutar ideas, escribir y refactorizar código limpio, reutilizable y escalable.'},
+      {name: 'keywords', content: 'Frontend developer, Software developer, Android app developer, iOS app developer, Flutter app developer, Backend developer'},
+      {name: 'description', content: 'Skilled Flutter and Android developer committed to building high-quality mobile applications. Contact me at 01715761574 or souravcse94@gmail.com.'},
     ]);
-    
     
     AOS.init(); 
 
