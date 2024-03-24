@@ -1,0 +1,156 @@
+{
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "CV_sourov_das.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have great skills in both mobile app and backend development with <span class='underline'>Flutter, Native Android, Native iOS and NestJS</span>.. My diverse skill set enables me to solve difficulties across multiple platforms, resulting in a consistent user experience and strong technology solutions.",
+   
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my 4 years as a developer, I seek to train every day. Always I have a passion for writing clean architecture, well structured, readable and easily-testable code, I am keen to work with best-practice agile development methods to increase my team's effectiveness.",
+        "Highly organized and efficient individual, whose thorough and precise approach to projects has yielded excellent results.",
+        "Some of the technologies that I have worked on include (but are not limited to):"
+    ],
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "MindOrbital",
+            "Title": "Software Developer",
+            "Date": "August 2021 - Present",
+            "Description": [
+              "Develop and maintain multiple mobile applications using Native Android and Flutter, including UI/UX design, implementation of features, and testing.",
+              "Utilized Firebase and Firestore for backend development and database management.",
+              "Integrated RESTful APIs in multiple mobile applications.",
+              "Implemented version control using Git and GitHub.",
+              "Collaborated with cross-functional teams to ensure seamless application development and launch."
+            ]
+        },
+        {
+            "Tab": "SamsSolution",
+            "Title": "Full Stack Software Developer",
+            "Date": "July, 2019 – August 2021",
+            "Description": [
+              "Implementing continuous improvements, working on frontend and backend.",
+              "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+              "Automation of processes with data structures.",
+              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+            ]
+        }
+    
+      
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "HishabPati",
+            "Description": "<span class='underline'>Record, manage & track your business</span> activities digitally with mobile, whether you are online or offline. This app is suitable for small to mid-range traders making your transactions transparent throughout the process and make your business transactions smooth, fast and secure.",
+            "imgs": [
+                "assets/images/hishabpati/hishabpati1.webp"
+            ],
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.mindorbital.android.hishabpati",
+            "Technologies": ["Flutter", "Dart", "Java", "Swift"]
+        },
+        {
+            "Title": "Lango School",
+            "Description": "<span class='underline'>Learn to Speak in a FUN WAY!</span> LANGO is a language speaking practice app that helps you with pronunciation and daily conversational phrases to speak English with confidence.",
+            "imgs": [
+                "assets/images/lango/lango1.webp"
+        
+            ],
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.lango.schoolapp",
+            "iosAppLink": "https://apps.apple.com/us/app/lango-school/id1597890437",
+            "Technologies": ["Flutter", "Dart", "Java", "Swift", "NestJS", "AWS"]
+        },
+        {
+            "Title": "Table Ache",
+            "Description": "All-in-One <span class='underline'>Restaurant Management</span> Solution. With comprehensive reservation system, you can streamline operations, enhance guest satisfaction, and take your restaurant to new heights of success. ",
+            "imgs": [
+                "assets/images/table_ache/table_ache1.webp",
+                "assets/images/table_ache/table_ache2.webp",
+                "assets/images/table_ache/table_ache3.webp",
+                "assets/images/table_ache/table_ache4.webp"
+          
+            ],
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.mindorbital.android.tableache",
+            "iosAppLink": "https://apps.apple.com/us/app/table-ache/id6475287993",
+            "webAppLink":"https://app.tableache.com/",
+            "Technologies": ["Flutter", "Dart"]
+        },
+        {
+            "Title": "Oui.Meet",
+            "Description": "<span class='underline'>Oui Meet is for the dater who's ready to stop swiping and start dating</span>. It  is designed to be used while you’re out and ready to mingle. Just check into your location through the app and search the profiles of users near you.",
+            "imgs": [
+                "assets/images/oui_meet/oui_meet1.webp",
+                "assets/images/oui_meet/oui_meet2.webp"
+            ],
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.devbrid.oui_dating",
+            "iosAppLink": "https://apps.apple.com/us/app/oui-meet/id1562110466",
+            "Technologies": ["Flutter", "Firebase", "Firestore", "Cloud Functions"]
+        },
+        {
+            "Title": "Hazira",
+            "Description": "As businesses grow, it becomes increasingly difficult to keep track of employees attendance, work schedules, shift planning, branch management, and leave management. However, with the Hazira application, these tasks are no longer a hassle. Organizations can now easily manage all their HR tasks through the app.",
+            "imgs": [
+                "assets/images/hazira/hazira1.webp",
+                "assets/images/hazira/hazira2.webp"
+            ],
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.mindorbital.android.hazira",
+            "iosAppLink": "https://apps.apple.com/us/app/hazira/id6450311881",
+            "Technologies": ["Flutter", "Dart", "Java", "Swift"]
+        }
+    ],
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "Lettuce Real Estate",
+            "Description": "Lettuce Real Estate App integrates real estate news, mortgage calculator, latest mortgage information and real-time mortgage referral service applications",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.threewealth.mortgageapp",
+            "iosAppLink": "https://apps.apple.com/us/app/%E7%94%9F%E8%8F%9C%E5%9C%B0%E7%94%A2/id1543874139",
+            "Technologies": ["Flutter", "Firestore", "Cloud Functions", "Swift", "Java"]
+        },
+        {
+            "Title": "MindHealth",
+            "Description": "Listen to the FREE pocket podcast blogs, helping you understand your mind, make life changes and transform how you feel.",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.samzsolution.hypnosara_app",
+            "iosAppLink": "https://apps.apple.com/us/app/mindhealth-heal-your-mind/id1556727953",
+            "Technologies": ["Flutter", "Firebase", "Firestore", "Cloud Functions", "Cron Job"]
+        },
+        {
+            "Title": "HKG",
+            "Description": "HKG is a peer-to-peer marketplace for menswear. You can be a merchant or buyer in this marketplace",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.hkg.merchantapp",
+            "Technologies": ["Flutter", "Dart", "NodeJS", "Express"]
+        },
+        {
+            "Title": "eComApi",
+            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+            "ghLink": "https://github.com/dsourav/ecomApi",
+            "Technologies": ["NodeJS", "Express", "MongoDB"]
+        },
+        {
+            "Title": "YEP Nation UCP",
+            "Description": "This app will provide information on the YEP Nation Universal Communications Platform (UCP).",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.YEPNATION.UCP",
+            "iosAppLink": "https://apps.apple.com/us/app/yepnation-ucp/id1541387565",
+            "Technologies": ["Java", "Dart", "Swift", "Firestore", "Flutter"]
+        },
+        {
+            "Title": "Cu.Re Patient",
+            "Description": "Cu.Re is a Customized Rehabilitation platform, where physiotherapists can remotely connect with their patients to provide video consultations, set personalized exercise charts & monitor progress",
+            "androidAppLink": "https://play.google.com/store/apps/details?id=com.ashvaweartech.patientmyphysio",
+            "Technologies": ["Flutter", "Dart", "Java","Swift"]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": " Please feel free to reach out to me with any inquiries or opportunities you have in mind. I'll be sure to respond promptly upon receiving your message. Thank you!",
+    "Contact.Btn": "Say Hello"
+
+}
