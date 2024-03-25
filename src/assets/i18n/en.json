@@ -130,7 +130,7 @@
         },
         {
             "Title": "eComApi",
-            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+            "Description": "This full E-Commerce API build using Express and Mongo. Here it contains all the required functionalities of a full-fledged E-commerce Api.",
             "ghLink": "https://github.com/dsourav/ecomApi",
             "Technologies": ["NodeJS", "Express", "MongoDB"]
         },
